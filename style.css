@@ -2,5 +2,10 @@ p {
 color: red;
 text-transform: uppercase;
 }
-
+body{
+  color:red;
+}
+h1{
+  font-size:2rem;
+}
 
